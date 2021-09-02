@@ -272,7 +272,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Wash your hands!
+  m_Text: Mosd meg a kezet!
 --- !u!222 &94067075
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -351,7 +351,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Level 4
+  m_Text: 4.Szint
 --- !u!222 &115184429
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -430,7 +430,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "Mosd meg rendesen a \nkezed!"
+  m_Text: "Mosd meg rendesen a \nkezed, hogy az \xF6sszes\nv\xEDrust elt\xFCntesd!"
 --- !u!222 &148783655
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1614,7 +1614,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Level 5
+  m_Text: 5.Szint
 --- !u!222 &607409518
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1861,7 +1861,7 @@ RectTransform:
   m_GameObject: {fileID: 703406906}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 6.305173, y: 2.3601441, z: 2.6974}
+  m_LocalScale: {x: 5.6746554, y: 2.1241298, z: 2.42766}
   m_Children:
   - {fileID: 559973202}
   m_Father: {fileID: 450918494}
@@ -2316,7 +2316,7 @@ RectTransform:
   m_GameObject: {fileID: 868503287}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.5153, y: 1.5153, z: 1.5153}
+  m_LocalScale: {x: 1.2122401, y: 1.5153, z: 1.5153}
   m_Children:
   - {fileID: 1139421074}
   m_Father: {fileID: 450918494}
@@ -2324,7 +2324,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 1}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &868503289
@@ -2627,7 +2627,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Covid Run!
+  m_Text: "A kit\xF6r\xE9s"
 --- !u!222 &928217825
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3105,7 +3105,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Level 2
+  m_Text: 2.Szint
 --- !u!222 &1109571536
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3681,7 +3681,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Wear your mask!
+  m_Text: Viselj maszkot!
 --- !u!222 &1255233845
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3760,7 +3760,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Level 3
+  m_Text: 3.Szint
 --- !u!222 &1270116971
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4337,7 +4337,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Level 1
+  m_Text: 1.Szint
 --- !u!222 &1411524120
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4739,7 +4739,7 @@ SpriteRenderer:
   m_Size: {x: 19.2, y: 10.8}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!95 &1694607811
@@ -4967,7 +4967,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Take your time!
+  m_Text: "Bez\xE1rva"
 --- !u!222 &1796546564
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5046,7 +5046,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Get the Vakcine!
+  m_Text: "Az olt\xE1s"
 --- !u!222 &1807049097
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5170,7 +5170,7 @@ RectTransform:
   m_GameObject: {fileID: 2002360972}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.5153, y: 1.5153, z: 1.5153}
+  m_LocalScale: {x: 1.2122401, y: 1.5153, z: 1.5153}
   m_Children:
   - {fileID: 709867040}
   m_Father: {fileID: 450918494}
@@ -5178,7 +5178,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -67}
+  m_AnchoredPosition: {x: 0, y: -47}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2002360974
