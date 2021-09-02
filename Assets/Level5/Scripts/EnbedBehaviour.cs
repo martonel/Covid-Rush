@@ -22,6 +22,12 @@ public class EnbedBehaviour : MonoBehaviour
         parentObj = other.gameObject;
         Embed();
         if (other.transform.tag == "Enemy") {
+            GameObject enemyObj = other.gameObject;
+            enemyObj.transform.Find("Hat").GetComponent<SkinnedMeshRenderer>().materials[0].color = Color.green;
+            enemyObj.transform.Find("Hat").GetComponent<SkinnedMeshRenderer>().materials[1].color = Color.green;
+            enemyObj.transform.Find("Clothes").GetComponent<SkinnedMeshRenderer>().materials[0].color = Color.green;
+
+
             player.GetComponent<VakcineShoot>().SetHitNumber();
             Destroy(this.gameObject);
 

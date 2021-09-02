@@ -291,7 +291,7 @@ GameObject:
   - component: {fileID: 8705057487470382429}
   - component: {fileID: 537872924966484500}
   m_Layer: 0
-  m_Name: Hat1.006
+  m_Name: Hat
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1372,7 +1372,7 @@ GameObject:
   - component: {fileID: 508998493952019961}
   - component: {fileID: 3429289019305528391}
   m_Layer: 0
-  m_Name: Clothes.007
+  m_Name: Clothes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

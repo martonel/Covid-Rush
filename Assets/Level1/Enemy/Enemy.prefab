@@ -449,7 +449,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 600afa08a169dd641b3cfe1296d53f09, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: -382652638819485698, guid: 80e47e5306b543445ab196f15c8f62d4, type: 3}
+      objectReference: {fileID: 2100000, guid: 93345014f30b58b4bb331efe955a0acc, type: 2}
     - target: {fileID: 919132149155446097, guid: 600afa08a169dd641b3cfe1296d53f09, type: 3}
       propertyPath: m_Name
       value: 3DCovid
