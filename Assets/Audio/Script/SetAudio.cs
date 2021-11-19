@@ -17,7 +17,6 @@ public class SetAudio : MonoBehaviour
         {
             isMute = false;
             Mute();
-            Debug.Log("hangtalan");
         }
         else
         {

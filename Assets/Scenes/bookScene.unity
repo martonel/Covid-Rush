@@ -2508,13 +2508,6 @@ MonoBehaviour:
     loop: 0
     playOnAwake: 0
     source: {fileID: 0}
-  - name: mainTheme
-    clip: {fileID: 8300000, guid: 00e73e331c348904f8f8b3ef7094d1c4, type: 3}
-    volume: 0.5
-    pitch: 1
-    loop: 1
-    playOnAwake: 1
-    source: {fileID: 0}
 --- !u!1 &908422211
 GameObject:
   m_ObjectHideFlags: 0
@@ -4685,7 +4678,7 @@ GameObject:
   - component: {fileID: 1694607811}
   - component: {fileID: 1694607810}
   m_Layer: 0
-  m_Name: bookAnim
+  m_Name: MainBook
   m_TagString: Music
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
